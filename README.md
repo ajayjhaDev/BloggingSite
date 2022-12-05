@@ -1,7 +1,7 @@
-# BloggingSite
-# BloggingSite with CRUD and authentication functionality 
+## BloggingSite
+## BloggingSite with CRUD and authentication functionality 
 
-## Live link: https://bloggingsite.netlify.app/
+### Live link: https://bloggingsite.netlify.app/
 
 ## ⚒️ Technologies Used
 
